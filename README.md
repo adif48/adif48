@@ -1,5 +1,3 @@
-# Adif.Tech
+# Adif.Tech | Personal Blog
 
-# Personal Blog
-
-# All About The Future of Tech
+All About The Future of Tech
