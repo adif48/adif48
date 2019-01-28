@@ -7,7 +7,7 @@ description: A blog about lorem ipsum dolor sit amet.
 # User settings
 username: Adif Hermawan
 user_description: Welcome to my world
-user_title: Devloper Gabux
+user_title: 
 email: contact@adif.tech
 twitter_username: adifher
 github_username:  adif48
@@ -21,6 +21,6 @@ plugins:
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-66293269-2"
 
 exclude: ['package.json', 'src' , 'node_modules']
