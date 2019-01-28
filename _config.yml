@@ -16,6 +16,9 @@ instagram_username:  adifher
 telegram_username:  adifher
 year: 2019
 
+plugins:
+- jekyll-sitemap
+
 # Google-analytics
 google-analytics:
   id: ""
